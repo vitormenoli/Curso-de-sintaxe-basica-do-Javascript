@@ -7,7 +7,7 @@ Este repositório contém os materiais e o código-fonte para o Curso Básico de
 O curso está dividido em 5 vídeos, cada um abordando tópicos diferentes. Abaixo está a lista dos vídeos disponíveis:
 
 1. **Introdução ao JavaScript e Console do Navegador**
-   - [Módulo 1](https://www.youtube.com/watch?v=1fbousJfBfc)
+   - [Módulo 1](https://youtu.be/r35ZdhpzNsM?si=3VE9UJ0I52BK9ddX)
 
 2. **Sintaxe Básica do JavaScript**
    - [Módulo 2](#)
@@ -31,4 +31,4 @@ Agradeço a todos que assistiram ao curso e espero que tenham aprendido mais sob
 
 ---
 
-**[Se inscreva no canal](#) para mais conteúdo sobre desenvolvimento web!**
+**[Se inscreva no canal](https://www.youtube.com/channel/UCKLJj2nJH3th04qeaDT_riw) para mais conteúdo sobre desenvolvimento web!**
