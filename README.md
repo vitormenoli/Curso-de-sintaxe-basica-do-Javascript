@@ -10,7 +10,7 @@ O curso está dividido em 5 vídeos, cada um abordando tópicos diferentes. Abai
    - [Módulo 1](https://youtu.be/r35ZdhpzNsM?si=3VE9UJ0I52BK9ddX)
 
 2. **Sintaxe Básica do JavaScript**
-   - [Módulo 2](#)
+   - [Módulo 2](https://youtu.be/ueqL30coOus)
 
 3. **Funções e Estruturas Avançadas**
    - [Módulo 3](#)
