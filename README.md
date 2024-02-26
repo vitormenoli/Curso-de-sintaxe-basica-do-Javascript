@@ -13,7 +13,7 @@ O curso está dividido em 5 vídeos, cada um abordando tópicos diferentes. Abai
    - [Módulo 2](https://youtu.be/ueqL30coOus)
 
 3. **Funções e Estruturas Avançadas**
-   - [Módulo 3](#)
+   - [Módulo 3](https://youtu.be/_zKBnSO2IiM)
 
 4. **Programação Avançada**
    - [Módulo 4](#)
