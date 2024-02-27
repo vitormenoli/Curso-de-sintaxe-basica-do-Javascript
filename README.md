@@ -16,7 +16,7 @@ O curso está dividido em 5 vídeos, cada um abordando tópicos diferentes. Abai
    - [Módulo 3](https://youtu.be/_zKBnSO2IiM)
 
 4. **Programação Avançada**
-   - [Módulo 4](#)
+   - [Módulo 4](https://youtu.be/jGbDRtMGDS0)
 
 5. **Projeto Prático**
    - [Módulo 5](#)
